@@ -1,0 +1,11 @@
+{
+  "require": {
+    "qcloud/cos-sdk-v5": ">=1.0"
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
+  }
+}
